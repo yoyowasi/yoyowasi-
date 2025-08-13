@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20I'm%20Min%20Hyeok%20Yoo%20👋&height=200&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h2 align="center">📱 Mobile & Web Developer | 꾸준히 성장하는 개발자</h2>
+<h2 align="center">📱 Mobile Developer | 꾸준히 성장하는 개발자</h2>
 
 <p align="center">
   <a href="mailto:youmin302@gmail.com"><img src="https://img.shields.io/badge/Email-youmin302@gmail.com-red?style=flat-square&logo=gmail"></a>
